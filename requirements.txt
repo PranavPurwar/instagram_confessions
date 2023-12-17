@@ -1,0 +1,5 @@
+instagrapi
+python-dotenv
+Pillow
+Flask
+waitress
